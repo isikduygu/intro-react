@@ -1,8 +1,6 @@
 This repository was built for [udemy lecture](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
