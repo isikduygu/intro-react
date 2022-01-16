@@ -1,4 +1,4 @@
-udemy lecture (https://www.udemy.com/course/react-the-complete-guide-incl-redux/) 
+[https://www.udemy.com/course/react-the-complete-guide-incl-redux/](udemy lecture)
 
 
 ## Available Scripts
