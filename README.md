@@ -1,4 +1,4 @@
-[udemy lecture](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+This repository was built for [udemy lecture](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 
 ## Available Scripts
